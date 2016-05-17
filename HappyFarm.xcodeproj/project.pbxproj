@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2155D9C51CB62B6C00AABCA2 /* HappyFarm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HappyFarm; sourceTree = BUILT_PRODUCTS_DIR; };
 		2155D9C81CB62B6C00AABCA2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2155D9CF1CB62B8700AABCA2 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2155D9C81CB62B6C00AABCA2 /* main.cpp */,
+				2155D9CF1CB62B8700AABCA2 /* Header.h */,
 			);
 			path = HappyFarm;
 			sourceTree = "<group>";
